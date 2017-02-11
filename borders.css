@@ -2,6 +2,7 @@
 body[class="demo1"]{
   position:absolute;
   width:100%;
+  position:fixed;
   background-color: #E67E22;
 }
 
@@ -42,7 +43,7 @@ nav a{
 	height:15em;
 	border:5px solid black;
 	border-radius:5%;
-	margin-left:20%;
+	margin-left:17%;
 	font-size:2.5em;
 	text-decoration:none;
 	color:black;
@@ -73,7 +74,7 @@ body[class="demo2"] nav a:nth-of-type(2){
 	position:fixed;
 	top:0;
  	height:100%;
- 	width:102%;
+ 	width:104%;
  	left:-2em;
  	margin-right:0;
     border-width:0px 0px 0px 0px;
