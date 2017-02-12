@@ -144,7 +144,7 @@ body[class="demo2"] label{
 	bottom:50px;
 	height:3em;
 	width:55px;
-	left:48%;	
+	left:46%;	
 }
 
 body[class="demo2"] label:hover{
@@ -281,7 +281,8 @@ body[class="demo1"] #menu:checked + .backGround ul li{
 body[class="demo2"] ul:nth-of-type(1){
 	position:absolute;
 	bottom:-3em;
-	right:60%;
+	right:57%;
+	width:360px;
 	font-size:1.5em;
 	color:white;
 	list-style:none;
@@ -291,7 +292,7 @@ body[class="demo2"] ul:nth-of-type(1){
 body[class="demo2"] ul:nth-of-type(2){
 	position:absolute;
 	bottom:-3em;
-	left:60%;
+	left:57%;
 	width:360px;
 	font-size:1.5em;
 	color:white;
